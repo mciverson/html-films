@@ -1,1 +1,1 @@
-http://melted_bit.surge.sh/movies.html
+http://melted_bit.surge.sh/index.html
